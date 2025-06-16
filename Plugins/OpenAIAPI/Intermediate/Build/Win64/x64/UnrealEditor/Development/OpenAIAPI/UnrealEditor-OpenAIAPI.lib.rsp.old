@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-OpenAIAPI.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kellan Mythen\Documents\Unreal Projects\OpenAI53\Intermediate\Build\Win64\x64\OpenAI53Editor\Development\Engine\SharedPCH.Engine.Cpp20.InclOrderUnreal5_0.h.obj"
+"C:\Users\Kellan Mythen\Documents\Unreal Projects\OpenAI53\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Module.OpenAIAPI.cpp.obj"
+"C:\Users\Kellan Mythen\Documents\Unreal Projects\OpenAI53\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\Default.rc2.res"
+/OUT:"C:\Users\Kellan Mythen\Documents\Unreal Projects\OpenAI53\Plugins\OpenAIAPI\Intermediate\Build\Win64\x64\UnrealEditor\Development\OpenAIAPI\UnrealEditor-OpenAIAPI.lib"

@@ -1,0 +1,22 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OpenAIAPI.cpp.obj": [
+			"OpenAIAPI.init.gen.cpp.obj",
+			"OpenAICallChat.gen.cpp.obj",
+			"OpenAICallCompletions.gen.cpp.obj",
+			"OpenAICallDALLE.gen.cpp.obj",
+			"OpenAICallTranscriptions.gen.cpp.obj",
+			"OpenAIDefinitions.gen.cpp.obj",
+			"OpenAIUtils.gen.cpp.obj",
+			"OpenAIAPI.cpp.obj",
+			"OpenAICallChat.cpp.obj",
+			"OpenAICallCompletions.cpp.obj",
+			"OpenAICallDALLE.cpp.obj",
+			"OpenAICallTranscriptions.cpp.obj",
+			"OpenAIDefinitions.cpp.obj",
+			"OpenAIParser.cpp.obj",
+			"OpenAIUtils.cpp.obj"
+		]
+	}
+}
